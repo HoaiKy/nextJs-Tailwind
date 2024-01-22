@@ -1,0 +1,16 @@
+.img {
+  width: 300px;
+}
+
+.total {
+  background: linear-gradient(
+    112deg,
+    rgba(6, 11, 38, 0.94) 59.3%,
+    rgba(26, 31, 55, 0) 100%
+  );
+}
+@media screen and (max-width: 1400px) {
+  .img {
+    width: 100px;
+  }
+}
